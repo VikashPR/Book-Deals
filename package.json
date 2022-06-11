@@ -1,7 +1,7 @@
 {
-  "name": "Flower Commerce",
+  "name": "flower-ecommerce",
   "version": "1.1.0",
-  "description": "FLower Selling Ecommerce",
+  "description": "flower-selling-ecommerce",
   "author": "",
   "scripts": {
     "dev": "nuxt",
