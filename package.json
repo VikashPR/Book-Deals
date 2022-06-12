@@ -5,7 +5,8 @@
   "author": "",
   "scripts": {
     "dev": "nuxt",
-    "build": "nuxt generate"
+    "build": "nuxt build",
+    "generate": "nuxt generate"
   },
   "repository": {
     "type": "git",
