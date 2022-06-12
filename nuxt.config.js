@@ -5,7 +5,7 @@ module.exports = {
   target: "static",
 
   router: {
-    base: "/Vuemmerce/"
+    base: "/E-nursery/"
   },
 
   /*
