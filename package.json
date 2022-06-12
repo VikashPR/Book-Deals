@@ -1,7 +1,7 @@
 {
-  "name": "flower-ecommerce",
+  "name": "e-nursery",
   "version": "1.1.0",
-  "description": "flower-selling-ecommerce",
+  "description": "e-nursery",
   "author": "",
   "scripts": {
     "dev": "nuxt",
